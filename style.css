@@ -1,0 +1,19 @@
+body{
+    background-image: url("http://www.edinburghnews.scotsman.com/webimage/1.3879620.1441615710!/image/3810858491.jpg_gen/derivatives/articleMaxWidth_620/3810858491.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+  color: white;
+  font-family: "Arial", Sans-serif, serif;
+  font-weight: bold;
+  
+}
+
+a{
+  font-size: 250%;
+}
+a:hover{
+  color:blue;
+}
